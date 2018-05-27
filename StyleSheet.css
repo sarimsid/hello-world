@@ -1,0 +1,316 @@
+﻿html {
+  background-color:black;
+}
+
+.hbody {
+    width:100%;
+    background-color:gainsboro;
+    margin:0 auto;
+}
+#header {
+    height:400px;
+  background:url(images/h1.jpg);
+  background-size:100% 100%;
+}
+table {
+    width: 100%;
+}
+#menu {
+    background-color:black;
+    height:50px;
+    text-align:center;
+}
+   #menu li {
+        display: inline-block;
+    }
+      #menu li a {
+        padding:10px 20px;
+        margin:20px;
+        color:black;
+        border-radius:13px;
+        background-color:yellow;
+		
+        }
+    #menu  a:hover{
+        
+        background-color:white;
+    }
+.side {
+    color:white;
+        width:18%;
+    height:1500px;
+    vertical-align:top;
+    text-align:center;
+    background-color:skyblue;
+}
+    .side img{
+        border-radius:20px;
+        height:190px;
+        width:200px;
+    }
+.main{
+    vertical-align: top;
+    text-align: center;
+    
+}
+    .main img {
+        border-radius:30px;
+  width:100%;
+  height:300px;
+          }
+    
+    .main img img {
+        border-radius:30px;
+  width:100%;
+  height:180px;
+          }
+#ahead {
+    //background:url(images/IMG_7859.jpg);
+    width:100%;
+    height:300px;
+}
+    #ahead img {
+        width:100%;
+        height:300px;
+    }
+ 
+.ahtml {
+    background:url(images/stethoscope-840125_1920.jpg);
+}
+.abody {
+    width:85%;
+    margin:0 auto;
+    background-color:transparent;
+}
+.atable {
+    width:100%;
+}
+
+.amain {
+  
+    border-radius:20px;
+    background-color:grey;
+    vertical-align:top;
+    text-align:center;
+    color:white;
+    height:700px;
+}
+    .amain img {
+        width:500px;
+        height:250px;
+        border-radius:20px;
+    }
+    
+.shead {
+    background:url(images/pp.jpg);
+    width:600px;
+    height:200px;
+    text-align:center;
+    background-color:aquamarine;
+}
+.stable {
+    height:650px;
+    margin:0 350px;
+width:550px;
+color:black;
+background-color:transparent;
+}
+.shtml {
+background:url(images/ff.jpg);
+}
+.sbody {
+border-radius:30px;
+}
+.logo {
+    background-color:chocolate;
+    height:40px;
+    color:white;
+}
+    .logo img {
+        
+    padding:5px 15px;
+    }
+.footer {
+  
+    color:white;
+background-color:black;
+}
+    .loginform{  
+        padding:10px;  
+        border:1px solid pink;  
+        border-radius:10px;  
+        float:right;  
+        margin-top:10px;  
+       vertical-align:auto;
+       background-color:transparent;
+        }  
+    .formheading{  
+        background-color:red;  
+        color:white;  
+        padding:4px;  
+        text-align:center;  
+    }  
+    .sub{  
+    background-color:blue;  
+    padding: 7px 40px 7px 40px;  
+    color:white;  
+    font-weight:bold;  
+    margin-left:25px;  
+    border-radius:5px;  
+    }
+	.su{
+		background-color:blue;  
+    padding: 7px 40px 7px 40px;  
+    color:white;  
+    font-weight:bold;    
+    border-radius:5px;  
+    
+		
+	}
+.log {
+    vertical-align:top;
+    background-color:skyblue;
+    width:270px;
+}
+    .log img {
+        height:300px;
+        width:100%;
+    }
+.sehtml {
+    background-color:black;
+}
+.semain {
+    background:url(images/doctor-563428_1920.jpg);
+    width:100%;
+    height:600px; 
+     border-radius:20px;
+}
+.sebody {
+        color:aqua;
+    margin-left:50px;
+}
+.seb {
+    width:85%;
+    margin:0 80px;
+}
+.cbody {
+    width:85%;
+    margin:0 70px;
+    height:1250px;
+    background-color:white;
+    background-color:ButtonShadow;
+}
+.cimg {
+    vertical-align:top;
+    margin-right:80px;
+    margin-top:50px;
+    border-radius:20px;
+   
+   
+
+}
+.chead {
+    color:aqua;
+    text-align:center;
+}
+.chtml {
+    background:url(images/stethoscope-840125_1920.jpg);
+}
+.ctable {
+    background-color:ButtonFace;
+    margin:0 100px;
+    padding:40px;
+    width:70%;
+    height:700px;
+    margin-bottom:80px;
+}
+.pdiv {
+    border-radius:20px;
+    margin-left:80px;
+    width:90%;
+    height:450px;
+}
+.ptable {
+    font-size:20px;
+       margin:0 200px;
+    width:70%;
+    height:540px;
+    border-radius:20px;
+    margin-bottom:100px;
+    margin-top:60px;
+    background-color:ButtonFace;
+}
+.pbody {
+    margin:0 70px;
+    height:auto;
+    background-color:transparent;
+    
+}
+.phtml {
+    background:url(images/medical-563427_1920.jpg);
+}
+.ph1 {
+    color:darkorange;
+    margin-left:150px;
+    font-family:Aparajita;
+    font-size:60px;
+}
+.dhead {
+border-radius:15px;
+    width:90%;
+    height:450px;
+margin-left:100px;
+}
+div.ddiv {
+    background-color:mediumseagreen;
+    color:paleturquoise;
+border-radius:15px;   
+    width:90%;
+    margin-left:100px;
+}
+.dtable {
+    color:black;
+    background-color:silver;
+}
+.dbody {
+    width:85%;
+   
+}
+.dhtml {
+    background:url(images/medical-563427_1920.jpg);
+}
+
+
+.zz{
+		padding:10px 20px;
+        margin:20px;
+        color:black;
+        border-radius:13px;
+        background-color:orange;
+		
+	}
+	
+	
+	.bc{
+		margin-left:40px;
+		width:180px;
+		height:450px;
+		background-color:grey;
+		
+	}
+	
+	 .bc  a {
+        padding:10px 20px;
+        margin:5px;
+        color:white;
+        border-radius:13px;
+        
+		
+        }
+    .bc  td:hover{
+        
+        background-color:black;
+    }
+	.bc a:hover{
+		background-color:darkorange;
+	}
